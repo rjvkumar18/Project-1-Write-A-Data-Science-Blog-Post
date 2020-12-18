@@ -27,7 +27,7 @@ There are 2 notebooks available here. I have tried to find out the answers to th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://rjv-kumar18.medium.com/how-do-you-correlate-the-price-and-the-features-of-airbnb-seattle-listings-93fbc73901d4).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
